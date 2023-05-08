@@ -1,16 +1,13 @@
 
 /* Your CSS Code here. */
-.main {
+body {
 	border: 1px solid black;
-	width:300px;
 	
 }
-.container{
+.main{
 	margin:20px;
 	border:15px solid blue;
-	
-}
-.container-1{
-	padding:50px;
 	background-color: lightblue;
+	padding:50px;
+	width:300px;
 }
